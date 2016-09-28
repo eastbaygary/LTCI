@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<!-- the language of the document is declared with the lang attribute-->
+<body>
+<!-- opening tag for the body of the document-->
+
+
+
+...
+
+
+</body>
+<!-- closing tag for the body of the document-->
+</html>
+<!-- closing html tag-->
+
+
+
+
+
+
