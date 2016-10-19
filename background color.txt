@@ -1,0 +1,9 @@
+<body style="background-color:brightblue;">
+
+<h1>This is a heading</h1>
+
+
+<p>I'm learning to do background color</p>
+
+</body>
+
